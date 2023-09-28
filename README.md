@@ -4,7 +4,7 @@ Here we go again
 
 Linus passed on this beat, I made it to a jam
 
-But everything I'm not made me everything I am
+But everything I'm not, made me everything I am
 
 <!--
 **Ay-can/Ay-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
